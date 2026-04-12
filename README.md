@@ -1,19 +1,18 @@
-# 📊 Analítica Integral de Clientes: Predicción de Abandono, Valor de Vida y Segmentación
+# 📊 Analítica Integral de Clientes: Predicción de Abandono y Segmentación
 
 ## 📌 Descripción del proyecto
 
 Este proyecto desarrolla un enfoque integral de analítica de clientes aplicado al ámbito del marketing y la gestión de la relación con el cliente.
 
-A lo largo de tres fases complementarias, se aplican técnicas de machine learning supervisado y no supervisado con el objetivo de comprender el comportamiento del cliente, estimar su valor económico y diseñar estrategias de segmentación basadas en datos.
+A lo largo de dos fases complementarias, se aplican técnicas de machine learning supervisado y no supervisado con el objetivo de comprender el comportamiento del cliente y diseñar estrategias de segmentación basadas en datos.
 
-El proyecto integra clasificación, regresión y clustering dentro de un mismo marco analítico, simulando un entorno real de toma de decisiones en negocio.
+El proyecto integra clasificación y clustering dentro de un mismo marco analítico, simulando un entorno real de toma de decisiones en negocio.
 
 ---
 
 ## 🎯 Objetivos
 
 - Desarrollar un pipeline completo para la predicción del abandono.
-- Estimar el valor potencial o coste de vida del cliente mediante modelos de regresión.
 - Aplicar técnicas de segmentación no supervisada para identificar grupos homogéneos de clientes.
 - Integrar riesgo, rentabilidad y segmentación en un mismo enfoque estratégico.
 - Demostrar la aplicación práctica de modelos de machine learning dentro de un contexto realista de negocio.
@@ -34,17 +33,7 @@ Objetivo: anticipar la pérdida de clientes y facilitar decisiones de retención
 
 ---
 
-### 2️⃣ Estimación del valor del cliente (Regresión)
-
-- Modelado del valor potencial del cliente.
-- Evaluación del rendimiento y capacidad de generalización.
-- Análisis de la rentabilidad esperada por perfil de cliente.
-
-Objetivo: estimar el valor económico de cada cliente y optimizar la asignación de recursos comerciales.
-
----
-
-### 3️⃣ Segmentación de clientes (Clustering)
+### 2️⃣ Segmentación de clientes (Clustering)
 
 - Preparación y escalado de variables.
 - Aplicación de técnicas de clustering (aprendizaje no supervisado).
